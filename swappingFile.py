@@ -1,5 +1,5 @@
-file1 = "Project-98.py/sample1.txt"
-file2 = "Project-98.py/sample2.txt"
+file1 = "sample1.txt"
+file2 = "sample2.txt"
 
 def swapFileData() :
     with open(file1, 'r') as a:
